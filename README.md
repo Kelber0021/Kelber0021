@@ -13,6 +13,10 @@ Sou graduando em Engenharia Mecânica na UEMA e desenvolvo aplicações web e mo
 
 Também desenvolvi o **Catálogo KS Cavaleiros**, um catálogo digital descrito na seção Projetos do meu LinkedIn.
 
+## Em desenvolvimento
+
+**Find Wealth** — aplicativo de gestão financeira pessoal com acompanhamento de despesas, metas e indicadores de gastos.
+
 ## Engenharia na UEMA
 
 Participo de projetos acadêmicos que aproximam engenharia e tecnologia, entre eles o **ERVA-SOL**, voltado à tecnologia solar e à educação, e o **GIAC**, sobre gestão inteligente da climatização.
